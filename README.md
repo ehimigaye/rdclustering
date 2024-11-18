@@ -1,0 +1,1 @@
+Dans le cadre de la formation de DU de data analyste de l'université de Cergy pointoise , nous partageons le travail demandé pour l'UE d'apprentissage non supervisé, de réduction de dimensionnalité et de clustering.
